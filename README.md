@@ -1,4 +1,4 @@
-![Screenshot of Mahtab app](images/mahtab.png)
+![Screenshot of Mahtab app](images/mahtab.PNG)
 
 Mahtab
 
