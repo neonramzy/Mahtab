@@ -29,6 +29,12 @@ Thank you ❤️
 
 ---
 
+## About the name
+
+**Mahtab** (مهتاب) is a Persian word meaning **"moonlight"** — the soft, gentle light
+of the moon at night. The name fits the app: it dims and warms your screen so it's
+easier on the eyes, just like moonlight instead of harsh daylight.
+
 ## Build
 
 Install [w64devkit](https://github.com/skeeto/w64devkit), open its shell in this folder, and run:
