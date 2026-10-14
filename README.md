@@ -1,3 +1,5 @@
+![Screenshot of Mahtab app](images/mahtab.png)
+
 Mahtab
 
 Small, dependency-free screen brightness and color temperature control for Windows (tray app).
