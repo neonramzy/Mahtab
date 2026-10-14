@@ -6,6 +6,7 @@ Small, dependency-free screen brightness and color temperature control for Windo
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform: Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![Latest release](https://img.shields.io/github/v/release/USERNAME/REPO)
 
 **Author:** Milad Ramzany
 **License:** GPLv3
