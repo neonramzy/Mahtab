@@ -4,6 +4,8 @@ Small, dependency-free screen brightness and color temperature control for Windo
 
 ⚠works only on the primary diplay monitor.
 It does not currently work on multi-display hardware⚠
+
+
 No installtion needed,just lauch and use it!
 
 
