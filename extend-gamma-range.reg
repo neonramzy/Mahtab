@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Lets applications set a wider gamma range (needed to dim the screen strongly).
+; Requires administrator rights and a reboot. To undo, delete the value below.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ICM]
+"GdiICMGammaRange"=dword:00000100
