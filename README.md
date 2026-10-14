@@ -1,10 +1,8 @@
-# Mahtab
+Mahtab
 
 Small, dependency-free screen brightness and color temperature control for Windows (tray app).
-by Milad ramzany (GPLv3).
 
-* Settings are stored in `%APPDATA%\Mahtab\settings.ini`.
-* Edit `src/appinfo.h` (name, version, author, website, Bitcoin address) before publishing.
+by Milad ramzany (GPLv3).
 
 Build: install w64devkit, open its shell in this folder, run `sh build.sh`.
 
