@@ -2,11 +2,13 @@
 
 Small, dependency-free screen brightness and color temperature control for Windows (tray app).
 
+⚠works only on the primary diplay monitor.
+It does not currently work on multi-display hardware⚠
+
 ![Mahtab screenshot](images/mahtab.PNG)
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform: Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
-![Latest release](https://img.shields.io/github.com/neonramzy/Mahtab/releases)
 
 **Author:** Milad Ramzany
 **License:** GPLv3
