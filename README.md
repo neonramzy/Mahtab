@@ -6,6 +6,12 @@ Small, dependency-free screen brightness and color temperature control for Windo
 
 by Milad ramzany (GPLv3).
 
+If you found this software useful, please consider starring the project and making a donation.
+
+Bitcoin address: (bc1qkhlk39ce9zkqakkl6cvzxnaccl6phjqm09fvs7)
+
+Thank you ❤
+
 Build: install w64devkit, open its shell in this folder, run `sh build.sh`.
 
 `src/cli_main.cpp` + `src/win_capture.cpp` are an optional console prototype of adaptive
